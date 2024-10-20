@@ -12,6 +12,8 @@ to my personal GitHub profile!
 </div>
 <br/>
 
+![Image of me](https://github.com/vusalasalimovaa/vusalasalimovaa/blob/master/me.gif?raw=true)
+
 ![](https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png)
 
 <p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
