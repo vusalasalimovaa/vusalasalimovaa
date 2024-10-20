@@ -1,10 +1,27 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=svusalasalimovaa.vusalasalimovaa" />
+
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
+</div>
+
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
+</div>
+
+<div align="center">
+to my personal GitHub profile!
+</div>
+<br/>
+
+![](https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png)
+
+<p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vusala!;" />
 </h1>
 
-<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 <h3 align="center">?</h3>
 
@@ -43,3 +60,8 @@
 <hr/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vusalasalimovaa&theme=highcontrast)](https://git.io/streak-stats)
+
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+<br/>
