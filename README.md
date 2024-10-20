@@ -4,6 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vusala!;" />
 </h1>
 
+<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
 <h3 align="center">?</h3>
 
 <br/>
