@@ -1,7 +1,7 @@
 <img height = "150" width = "150" align="left" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fd5e143e-3c83-45fa-aba1-d2c7a2c8146e/dhz6cwy-1afbe4a7-4252-4720-a559-db34694ffd53.png/v1/fill/w_889,h_899/alex__madagascar__png__by_josephpatrickbrennan_dhz6cwy-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTMxIiwicGF0aCI6IlwvZlwvZmQ1ZTE0M2UtM2M4My00NWZhLWFiYTEtZDJjN2EyYzgxNDZlXC9kaHo2Y3d5LTFhZmJlNGE3LTQyNTItNDcyMC1hNTU5LWRiMzQ2OTRmZmQ1My5wbmciLCJ3aWR0aCI6Ijw9OTIwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.v3Ibc_eX5r2hroFz8Xk4NEzRQmZHoJHNy2zflWbnuTk">
 
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vusala!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vusala!;" />
 	<br/> <br/>
 </h1>
 
