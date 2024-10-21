@@ -1,24 +1,14 @@
+<img height = "150" width = "150" align="left" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fd5e143e-3c83-45fa-aba1-d2c7a2c8146e/dhz6cwy-1afbe4a7-4252-4720-a559-db34694ffd53.png/v1/fill/w_889,h_899/alex__madagascar__png__by_josephpatrickbrennan_dhz6cwy-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTMxIiwicGF0aCI6IlwvZlwvZmQ1ZTE0M2UtM2M4My00NWZhLWFiYTEtZDJjN2EyYzgxNDZlXC9kaHo2Y3d5LTFhZmJlNGE3LTQyNTItNDcyMC1hNTU5LWRiMzQ2OTRmZmQ1My5wbmciLCJ3aWR0aCI6Ijw9OTIwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.v3Ibc_eX5r2hroFz8Xk4NEzRQmZHoJHNy2zflWbnuTk">
 
-<div align="center">
-<img height = "100" width = "200" src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
-</div>
-
-<div align="center">
-<img height="250"  width = "250" src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
-</div>
-
-<div align="center">
-to my personal GitHub profile!
-</div>
-<br/>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
-
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vusala!;" />
+<h1 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vusala!;" />
+	<br/> <br/>
 </h1>
+
+
+<!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->  
+
+
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
@@ -57,8 +47,8 @@ class WhoAmI {
 
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,html,css,bootstrap,sass,tailwind" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,react,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,html,css,bootstrap,sass,tailwind" /><br/>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,react,mongodb,redux" /><br>
 </div>
 
 <br/>
