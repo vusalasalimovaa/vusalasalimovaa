@@ -32,7 +32,7 @@ class WhoAmI {
 
     ambitions() {
         return [
-            'Learn Algorith and Data Structure and also Javascript',
+            'Learn Algorithm and Data Structure and also Javascript',
             'Create your own website',
             // Assume 10 more awesome ambitions here ;)
         ];
