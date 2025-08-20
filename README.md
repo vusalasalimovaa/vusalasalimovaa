@@ -19,8 +19,7 @@ class WhoAmI {
     current_work = 'Writing code';
     hobbies = [
         'Coding',
-        'Swimming',
-        'biking',
+        'Blender',
         'Being up all night chasing that ONE BUG...'
 	// Assume 10 more awesome hobbies here ;)
 
