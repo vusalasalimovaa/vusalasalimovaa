@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Vusala</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHlnMnFucXE3bnBuNWhhajZ0aDc4b2h4ZmpnemJseDRpb251d3hpcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dh5q0sShxgp13DwrvG/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czNieWs5eWl1ZnVjamw1Z3NzdjY2czQ0amNnbjQzZ3lsc3U5Y2tmMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Fe6lfKyu6gs4qZyMOa/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vusalasalimovaa&label=Profile%20views&color=0e75b6&style=flat" alt="vusalasalimovaa" /> </p>
 
